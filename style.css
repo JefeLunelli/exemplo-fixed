@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+}
+header {
+    background-color: aqua;
+    padding: 20px;
+    font-size: 30px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+body {
+    height: 1500px;
+    padding-top: 77px;
+}
